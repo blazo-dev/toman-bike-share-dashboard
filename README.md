@@ -31,6 +31,3 @@ The data used for this project was sourced from Toman Bike Share's internal data
 
 ## Author
 - **Bryan Lazo**: Data Analyst
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.

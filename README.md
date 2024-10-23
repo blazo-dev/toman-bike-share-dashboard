@@ -20,3 +20,17 @@ The data used for this project was sourced from Toman Bike Share's internal data
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/toman-bike-share-dashboard.git
+   ```
+2. Open the SQL queries to extract the necessary data.
+3. Import the data into Power BI and review the visualizations.
+4. Explore the dashboard to analyze the key metrics.
+
+## Future Enhancements
+- Additional metrics such as customer satisfaction and bike maintenance costs could be integrated.
+- Dynamic price recommendation system based on historical data analysis.
+
+## Author
+- **Your Name**: Data Analyst
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
